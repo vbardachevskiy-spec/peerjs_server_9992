@@ -1,0 +1,11 @@
+{
+  "name": "peerjs-server-999",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "peer": "^1.0.0"
+  },
+  "scripts": {
+    "start": "npx peerjs --port 10000 --path /peerjs"
+  }
+}
